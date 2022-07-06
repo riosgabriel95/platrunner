@@ -1,0 +1,23 @@
+Plat Runner - Futuros Recursos a serem implementados:
+
+- Criação do menu de configurações (Settings layout) - detalhes abaixo;
+- Novos personagens (Plot(Verde) e Plut(Rosa))
+  Caso o jogador zere o jogo com o Plat, ele desbloqueará o Plot, e zerando com o Plot, ele irá desbloquear a Plut. Ele poderá escolher um dos três personagens, os dois inicialmente bloqueados, através do menu de configuração, que será implementado na seguinte estrutura:
+
+	> Play
+	> Settings
+	  > Sound (Enabled/Disabled)
+	  > Difficulty (Easy/Normal/Hard)
+	  > Reset Game Data (Confirm? All progress will be lost!)
+	  > Character Selector (Plat/Plot/Plut) - Inicialmente Plot e Plut desabilitados
+	  > License (Autor do jogo, site, informações legais...)
+	> Highscores
+	  > Easy
+	  > Normal
+	  > Hard
+	> Exit 
+
+- Fases 4 (Ice Land) e 5 (Jungle? Space? City?)
+- Níveis de Dificuldade : Easy, Normal e Hard (Definir velocidade do jogo)
+
+OBS: Algumas novas informações deverão ser guardadas, como as configurações (Dificuldade e desbloqueio de personagens) e os placares (3 niveis)
